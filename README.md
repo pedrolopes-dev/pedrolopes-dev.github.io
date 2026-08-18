@@ -2,7 +2,7 @@
 Portfólio pessoal de desenvolvimento e apresentação de projetos.
 # Olá, eu sou o Pedro Lopes! 👋
 
-### 🎓 Estudante de ADS & Desenvolvedor
+### 🎓 Desenvolvedor & Estudante de ADS
 
 Sou extremamente entusiasmado pela área de tecnologia, inovação e por transformar ideias em soluções funcionais através do código. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** e focado em aprimorar minhas habilidades em desenvolvimento **Full Stack**, construindo projetos práticos e aplicando as melhores práticas do mercado.
 
